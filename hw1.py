@@ -46,13 +46,14 @@ queue.append('b')
 queue.append('c')
 print('Initial queue')
 print(queue)
-
 #加
+
 print('Elements dequeued from queue')
 print(queue.pop(0))
 print(queue.pop(0))
 print('Queue after removing elements')
 print(queue)
+#彈出
 
 insert_f()
 insert_f()
