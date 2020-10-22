@@ -1,0 +1,21 @@
+const _ = require('./hw3')
+
+var a = ['a', 'u', 'k']
+var b = ['1', '2', '3']
+var c = ['a', 'b', 'c', 'd']
+
+
+var st = _.join(a, 'O')
+
+var te = _.last(b)
+
+var nt = _.nth(c, n = 1)
+var nt2 = _.nth(c, n = -2)
+
+
+console.log(st)
+
+console.log(te)
+
+console.log(nt)
+console.log(nt2)
