@@ -1,11 +1,11 @@
 const _ = require('./hw3')
 
-var a = ['a', 'u', 'k']
+var a = ['a', 'b', 'c']
 var b = ['1', '2', '3']
 var c = ['a', 'b', 'c', 'd']
 
 
-var st = _.join(a, 'O')
+var st = _.join(a, 'c')
 
 var te = _.last(b)
 
