@@ -118,3 +118,6 @@ Git有一個名為HEAD的特殊指針,指向當前所在的本地分支
 1. https://git-scm.com/about
 
 2. https://backlog.com/git-tutorial/tw/intro/intro2_2.html
+
+## 基本介紹:
+![image](./1.jpg)
