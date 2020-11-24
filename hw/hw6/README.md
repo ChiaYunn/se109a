@@ -119,5 +119,5 @@ Git有一個名為HEAD的特殊指針,指向當前所在的本地分支
 
 2. https://backlog.com/git-tutorial/tw/intro/intro2_2.html
 
-## 基本介紹:
-![image](./1.jpg)
+## 筆記:
+[Note](https://github.com/ChiaYunn/se109a/blob/master/hw/hw6/1.jpg)
